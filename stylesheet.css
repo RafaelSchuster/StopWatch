@@ -1,0 +1,16 @@
+body{
+    background-color: coral;
+}
+#counter{
+    width: 200px;
+    font-size: 50px;
+    color: white;
+}
+#header{
+    color: rgb(202, 218, 204) !important;
+}
+#main-div{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+}
